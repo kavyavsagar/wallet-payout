@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,kCACJ,CACA,cACC,aACD","file":"main.62bd52e1.chunk.css","sourcesContent":["body {\n    background-color: #fefefe !important;\n}\n.alert-danger{\n\tcolor: #e73d4a;\n}"]}
